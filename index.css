@@ -1,4 +1,5 @@
 #images li {
+  text-decoration: none;
   display: inline-block;
   margin: 10px;
 }
@@ -9,6 +10,7 @@
 }
  
 #images li img:hover {
+
   -webkit-transform: scale(1.5) rotate(10deg);
 }
  
