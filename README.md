@@ -1,3 +1,3 @@
-Fliker scraper y'all
+Flikr scraper y'all
 
 
