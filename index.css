@@ -1,0 +1,17 @@
+#images li {
+  display: inline-block;
+  margin: 10px;
+}
+#images li img {
+  -webkit-transition: 1s all ease-in-out;
+  opacity: 0;
+  height: 80px;
+}
+ 
+#images li img:hover {
+  -webkit-transform: scale(1.5) rotate(10deg);
+}
+ 
+#images li.show img {
+  opacity: 1;
+}
